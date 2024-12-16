@@ -323,7 +323,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     spaceBetween:10,
                 },
                 768: {
-                    slidesPerView: 1,   // For smaller screens, show 1 slide at a time
+                    slidesPerView: 2,   // For smaller screens, show 1 slide at a time
                     spaceBetween: 10,
                 },
                 1024: {
