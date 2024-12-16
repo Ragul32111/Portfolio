@@ -23,7 +23,7 @@
   font-size: 2rem;
   font-weight: bold;
   text-transform: uppercase;
-  color: #00FFc6;
+  color: #00ffc6 !important;
 }
 
 .navbar {
@@ -125,7 +125,7 @@ p{
 
   .header .logo {
     font-size: 2rem;
-    color: white;
+    color:#00ffc6;
   }
 }
 
