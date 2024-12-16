@@ -199,7 +199,7 @@ p{
 
 .hero-section {
   display: flex;
-  
+  align-items: center;
   justify-content: space-between;
   padding: 4.2rem 6rem;
 
@@ -319,11 +319,11 @@ p{
   .hero-section {
     flex-direction: column;
     padding: 3rem 1.5rem;
-    text-align: left;
+    text-align: center;
   }
 
   .content {
-    max-width: 60%;
+    max-width: 100%;
     margin-bottom: 2rem;
   }
 
@@ -345,9 +345,7 @@ p{
   }
 
   .image-container {
-    margin-top: -62rem;
-    margin-left: 500px;
-    align-items: self-start;
+    margin-top: 0;
   }
 
   .profile-outline {
@@ -1216,7 +1214,6 @@ overflow: hidden;
 }
 
 /*.-.--.-.-...--.-.-..-.--.-.-.-..--..-.--.-.-..-.--.-..-.-.-.--..-.--.*/
-
 
 
 
