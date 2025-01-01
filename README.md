@@ -42,7 +42,7 @@ I also specialize in **Firebase Integration** for:
    - Displays temperature, humidity, and weather conditions in an elegant design.  
    - 🔗 [Live Demo](https://ragul32111.github.io/Full-stack/weather/)  
 
-5. **🔥 Firebase Authentication & Realtime Database**  
+5. **🔥 To Do List using Firebase Authentication & Realtime Database**  
    - A demo showcasing the integration of Firebase services:  
      - GitHub Authentication for secure user access.  
      - Real-time data storage and retrieval.  
