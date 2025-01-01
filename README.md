@@ -71,7 +71,7 @@ I also specialize in **Firebase Integration** for:
 
 📧 **Email**: [ragul29143@gmail.com](mailto:ragul29143@gmail.com)  
 🌐 **Portfolio**: [Visit Here](https://ragul32111.github.io/)  
-💼 **LinkedIn**: [Connect with Me](https://linkedin.com/in/ragul-r)  
+💼 **LinkedIn**: [Connect with Me](https://www.linkedin.com/in/ragul-r-a00b52285/) 
 
 ---
 
